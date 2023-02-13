@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family:cursive;
+}
+canvas {
+  display: block; 
+  font-family:cursive;
+}
+
+p{
+  font-size: 50x;
+  color:deepskyblue;
+  text-align: center;
+}
+
+body{
+
+  background-color: rgb(0,0,0);
+  font-family:cursive;
+  color:deepskyblue;
+;
+}
